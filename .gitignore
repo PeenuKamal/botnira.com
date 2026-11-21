@@ -1,0 +1,10 @@
+# Contact-form backups & rate-limit files (private, generated on the server)
+storage/*
+!storage/.htaccess
+
+# Local tooling
+.claude/
+*.log
+.DS_Store
+Thumbs.db
+botnira-site.zip

@@ -1,0 +1,41 @@
+# BotNira
+
+> BotNira is an AI receptionist & sales-assistant platform that answers business calls, WhatsApp messages, web chats, SMS and emails 24/7. It books appointments, qualifies leads and runs outbound sales campaigns — in 90+ languages.
+
+BotNira is built for service businesses, clinics, salons, immigration consultants, restaurants, agencies, real-estate teams and B2B sales teams. It brings five customer channels (Voice / WhatsApp / Web chat / SMS / Email) into one inbox and one AI that learns the business from a short description and FAQs.
+
+Pricing (USD/month, + 13% HST): Basic $29 (chat-only), Starter $49, Growth $149 (includes AI Sales Assistant), Pro $399 (includes AI Sales Assistant). Plans hard-stop at their limits so there are no surprise bills. 5-day free trial, no credit card.
+
+Contact:
+- WhatsApp: +1 (548) 577 3855
+- Email: kamal@botnira.com
+- Web: https://botnira.com
+
+## Core pages
+
+- [Homepage](https://botnira.com/): Product overview, channels, pricing, FAQ, contact.
+- [Pricing](https://botnira.com/#pricing): All four plans with voice-minute and AI-message allowances.
+- [Referral program](https://botnira.com/referrals): 15% recurring commission for referring businesses.
+- [Team](https://botnira.com/team): Founder story and the team behind BotNira.
+- [Privacy policy](https://botnira.com/privacy)
+- [Terms of service](https://botnira.com/terms)
+
+## Solution pages
+
+- [AI Sales Agent](https://botnira.com/ai-sales-agent)
+- [AI Appointment Booking Software](https://botnira.com/ai-appointment-booking-software)
+- [AI Chatbot for Immigration Consultants](https://botnira.com/ai-chatbot-for-immigration-consultants)
+- [Replace Sales Team with AI](https://botnira.com/replace-sales-team-with-ai)
+- [WhatsApp AI Assistant](https://botnira.com/whatsapp-ai-assistant)
+- [24/7 AI Receptionist](https://botnira.com/24-7-ai-receptionist)
+
+## Industry pages
+
+- [Salons & Spas](https://botnira.com/use-case/salon)
+- [Dental Clinics](https://botnira.com/use-case/dental)
+- [Auto Repair](https://botnira.com/use-case/auto-repair)
+- [Real Estate](https://botnira.com/use-case/real-estate)
+- [Restaurants](https://botnira.com/use-case/restaurant)
+- [Education & Tutoring](https://botnira.com/use-case/education)
+- [Home Services](https://botnira.com/use-case/home-services)
+- [Healthcare Clinics](https://botnira.com/use-case/healthcare-clinic)
